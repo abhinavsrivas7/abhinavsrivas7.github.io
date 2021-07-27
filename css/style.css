@@ -211,7 +211,7 @@ filter: brightness(90%);
 .home{
 display: flex;
 background: url("/images/banner.jpg") no-repeat center;
-height: 100vh;
+height: 37rem;
 color: #fff;
 background-attachment: fixed;
 background-size: cover;
@@ -650,7 +650,7 @@ right: 15px;
 bottom: 15px;
 height: 38px;
 width: 35px;
-font-size: 23px;d
+font-size: 23px;
 line-height: 38px;
 }
  
